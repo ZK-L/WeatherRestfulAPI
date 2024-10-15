@@ -1,7 +1,7 @@
 # Weather Restful API
 
 this API can be used to get current weather for given city through open weather API (http://api.openweathermap.org/data/2.5/weather).
-
+* [How to Execute](#how-to-execute-the-api)
 * [API Design](#api-design)
     * [API workflow](#flowchart-for-the-api)
     * [Requirements and Implementations](#requirements-and-implementations)
